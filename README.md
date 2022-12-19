@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## User stories
+
+-Som användare vill jag kunna "se" vilka produkter som finns i varukorgen så jag vet vilka produkter som finns i den.<br>
+-Som användare vill jag kunna "se" vilka produkter som finns i butiken så jag kan göra ett inköp. <br>
+-Som användare vill jag kunna "se" min totala summa i kundvagen så jag inte går över budget.<br>
+-Som användare vill jag kunna "filtrera" produkter för att lättare hitta det jag vill inhandla.<br>
+-Som användare vill jag kunna se antalet produkter i lager så jag kan göra ett köp innan produkten försvinner från butiken.<br>
+
