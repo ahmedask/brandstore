@@ -77,3 +77,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 -Som användare vill jag kunna "filtrera" produkter för att lättare hitta det jag vill inhandla.<br>
 -Som användare vill jag kunna se antalet produkter i lager så jag kan göra ett köp innan produkten försvinner från butiken.<br>
 
+## Password
+
+-user Name: ahmed, password:1234.<br>
+
