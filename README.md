@@ -82,5 +82,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 -user Name: ahmed, password:1234.<br>
 
 ## Live page heroku 
-https://brand-boutique.herokuapp.com/main
+https://pure-cliffs-98953.herokuapp.com/main
 
